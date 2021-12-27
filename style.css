@@ -1,0 +1,16 @@
+
+body{
+
+  height: 100vh;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: bisque;
+  color: #333;
+  margin: auto;
+}
+
+h1{
+  color: palevioletred;
+}
